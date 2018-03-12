@@ -27,3 +27,7 @@ Use [ES6 style imports](https://developer.mozilla.org/en-US/docs/Web/JavaScript/
 ## Building
 
 Write the application in the `src` directory and it will build (e.g., `tsc src/index.js`) to the `dist` directory.
+
+## More
+
+See also [this template](https://github.com/Microsoft/TypeScript-Node-Starter) for more ideas.
