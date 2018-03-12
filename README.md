@@ -2,7 +2,6 @@
 
 A project template for node.js applications that use Typescript.
 
-
 ## Installation
 
 Initialize with npm:
@@ -17,13 +16,13 @@ Install types for Node:
 npm i -D @types/node
 ```
 
-Install Typescript and tslint.
+Install Typescript and tslint globally with npm.
 
-Install editor plugins: tslint and editorconfig.
+Install helpful editor plugins: tslint and editorconfig.
 
 ## Writing
 
-Use ES6 style imports and it will transpile to CommonJS.
+Use [ES6 style imports](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and Typescript will transpile to CommonJS. See the `tsconfig.json` file.
 
 ## Building
 
