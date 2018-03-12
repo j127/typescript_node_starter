@@ -1,0 +1,3 @@
+# The snippets should use tabs for indentation
+[*.json]
+indent_style = tab

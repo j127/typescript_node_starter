@@ -1,0 +1,11 @@
+*~
+node_modules/
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+*.sw[op]
+tags
+tags.*
+*.PENDING_DELETION
+dist/
